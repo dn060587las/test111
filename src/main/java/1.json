@@ -1,0 +1,104 @@
+[
+  {
+    "entity": {
+      "id": "1",
+      "type": "artist"
+    },
+    "countryId": "IL",
+    "data": {
+      "count_this_week_to_date": 300,
+      "wow_in_progress": 16.647058823529411764706,
+      "count_last_week_to_date": 17,
+      "wow_last_completed": -0.411764705882352941176,
+      "count_rtd": 432,
+      "count_last_week": 10,
+      "count_last_last_week": 17,
+      "count_last_4_weeks": 34
+    }
+  },
+  {
+    "entity": {
+      "id": "1",
+      "type": "artist"
+    },
+    "countryId": "UA",
+    "data": {
+      "count_this_week_to_date": 300,
+      "wow_in_progress": 16.647058823529411764706,
+      "count_last_week_to_date": 17,
+      "wow_last_completed": -0.411764705882352941176,
+      "count_rtd": 432,
+      "count_last_week": 10,
+      "count_last_last_week": 17,
+      "count_last_4_weeks": 34
+    }
+  },
+  {
+    "entity": {
+      "id": "1",
+      "type": "artist"
+    },
+    "countryId": "US",
+    "data": {
+      "count_this_week_to_date": 300,
+      "wow_in_progress": 16.647058823529411764706,
+      "count_last_week_to_date": 17,
+      "wow_last_completed": -0.411764705882352941176,
+      "count_rtd": 432,
+      "count_last_week": 10,
+      "count_last_last_week": 17,
+      "count_last_4_weeks": 34
+    }
+  },
+  {
+    "entity": {
+      "id": "2",
+      "type": "artist"
+    },
+    "countryId": "IL",
+    "data": {
+      "count_this_week_to_date": 300,
+      "wow_in_progress": 16.647058823529411764706,
+      "count_last_week_to_date": 17,
+      "wow_last_completed": -0.411764705882352941176,
+      "count_rtd": 432,
+      "count_last_week": 10,
+      "count_last_last_week": 17,
+      "count_last_4_weeks": 34
+    }
+  },
+  {
+    "entity": {
+      "id": "2",
+      "type": "artist"
+    },
+    "countryId": "UA",
+    "data": {
+      "count_this_week_to_date": 300,
+      "wow_in_progress": 16.647058823529411764706,
+      "count_last_week_to_date": 17,
+      "wow_last_completed": -0.411764705882352941176,
+      "count_rtd": 432,
+      "count_last_week": 10,
+      "count_last_last_week": 17,
+      "count_last_4_weeks": 34
+    }
+  },
+  {
+    "entity": {
+      "id": "2",
+      "type": "artist"
+    },
+    "countryId": "US",
+    "data": {
+      "count_this_week_to_date": 300,
+      "wow_in_progress": 16.647058823529411764706,
+      "count_last_week_to_date": 17,
+      "wow_last_completed": -0.411764705882352941176,
+      "count_rtd": 432,
+      "count_last_week": 10,
+      "count_last_last_week": 17,
+      "count_last_4_weeks": 34
+    }
+  }
+]
